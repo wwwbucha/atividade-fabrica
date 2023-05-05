@@ -1,7 +1,5 @@
-name= "chris"
-idade=17
-altura=1.70
-peso=(70)
-imc = peso/(altura**2)
+print ("digite seu nome: ")
+nome =input("Digite seu nome: ")
+print (nome)
 
-print(name, idade, imc, sep=', ')
+
