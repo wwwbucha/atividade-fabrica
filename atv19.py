@@ -1,2 +1,2 @@
 a = "christian"
-print(a.upper())
+print(a.upper())#deixa tudo mainusculo CHRISTIAN 
