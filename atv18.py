@@ -1,2 +1,2 @@
 a = "christian"
-print(a.capitalize())
+print(a.capitalize()) #a função capitalizer deixa a primeira letra mailuscula 
