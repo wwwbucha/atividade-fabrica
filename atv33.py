@@ -1,2 +1,2 @@
-s = "chri"
-print (s[:5])
+s = "christian"
+print (s[:10])
